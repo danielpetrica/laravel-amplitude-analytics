@@ -1,5 +1,5 @@
 {
-    "name": "hashcode7/laravel-amplitude-analytics",
+    "name": "danielpetrica/laravel-amplitude-analytics",
     "description": "A Laravel package to work with Amplitude.",
     "keywords": [
         "laravel",
